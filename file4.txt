@@ -1,3 +1,5 @@
 la ligne Contenu du file4.txt
 
 abc
+
+ligne 2
